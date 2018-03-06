@@ -1,7 +1,10 @@
 [
 null,
-{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
-{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
-{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
-{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7}
+{"id":1,"animationId":6,"description":"A simplistic training sword made of wood.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Wooden Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"An extremely well used Tomahawk and isnt the best\ntool for combat.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"flimsy Tomahawk ","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":3},
+{"id":3,"animationId":1,"description":"A carved stick that possesses some magical properties.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Carved Staff","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":4,"animationId":11,"description":"A bow with a rather loose string.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Lackstring Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":5,"animationId":0,"description":"I wooden rod with a carved arrow head of stone at\nthe tip.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":107,"name":"Arrowhead Spear","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":4},
+{"id":6,"animationId":0,"description":"Gloves made of rabbit hide not entirely made for\ncombat purposes.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":106,"name":"Hide Gloves","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":5},
+{"id":7,"animationId":0,"description":"A knife used to skin fresh hunt when caught.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Skinning Knife","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1}
 ]
