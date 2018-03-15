@@ -1,9 +1,9 @@
 [
 null,
 {"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Riley","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Rhin","characterIndex":0,"characterName":"Rhin","classId":11,"equips":[0,0,1,2,0],"faceIndex":0,"faceName":"Rhin","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rhin","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Gwen","characterIndex":0,"characterName":"Gwen","classId":12,"equips":[0,0,0,4,0],"faceIndex":0,"faceName":"Gwen","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gwen","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Baxter","characterIndex":0,"characterName":"Baxter","classId":13,"equips":[0,0,0,4,0],"faceIndex":0,"faceName":"Baxter","traits":[],"initialLevel":1,"maxLevel":99,"name":"Baxter","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Rhin","characterIndex":0,"characterName":"Rhin","classId":11,"equips":[8,0,1,2,0],"faceIndex":0,"faceName":"Rhin","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rhin","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Gwen","characterIndex":0,"characterName":"Gwen","classId":12,"equips":[9,0,0,4,0],"faceIndex":0,"faceName":"Gwen","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gwen","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Baxter","characterIndex":0,"characterName":"Baxter","classId":13,"equips":[9,0,0,4,0],"faceIndex":0,"faceName":"Baxter","traits":[],"initialLevel":1,"maxLevel":99,"name":"Baxter","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"Wesa","characterIndex":0,"characterName":"Wesa","classId":14,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Wesa","traits":[],"initialLevel":1,"maxLevel":99,"name":"Wesa","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
